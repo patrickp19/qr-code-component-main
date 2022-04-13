@@ -44,5 +44,5 @@ Thank you to Kevin Powell and his course - CSS demystified (https://courses.kevi
 Learned how to:
 
 - Write a CSS reset template
-- Useful ways to use CSS custom properties
+- Useful ways to write CSS custom properties
 - Write semantic CSS
